@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Delia-42
 - 👀 I’m interested in fanfiction. Horror, sci-fi, and mystery novels, movies, and t.v. shows. 
-- 🌱 I’m currently learning Python and MySQL
+- 🌱 I’m currently working towards becoming a SQL Queen.
 - 💞️ I’m looking to enhance my coding and visualization skills.
 - 📫 How to reach me ...
 
